@@ -16,7 +16,7 @@
 [![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/Alexkoshin/SF_data_science/tree/master/HeadHunter)
 
 
-### 🔍 [Анализ вакансий SQL](https://github.com/Alexkoshin/SF_data_science/tree/master/HeadHunter)
+### 🔍 [Анализ вакансий SQL](https://github.com/Alexkoshin/SF_data_science/blob/master/Анализ_вакансий_sql.ipynb)
 **Исследование рынка труда для SQL-специалистов**  
 📊 Комплексный анализ вакансий с использованием SQL-запросов  
 
@@ -33,4 +33,4 @@
 - **Географическое распределение**: исследование вакансий по регионам и городам
 - **Требования к кандидатам**: изучение необходимых технических навыков
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/your_username/your_repo/tree/main/sql_vacancies_analysis)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/Alexkoshin/SF_data_science/blob/master/Анализ_вакансий_sql.ipynb)
