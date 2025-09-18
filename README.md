@@ -1,6 +1,6 @@
 ## 🚀 Проекты
 
-### 🔍 [Анализ вакансий HeadHunter](https://github.com/Alexkoshin/SF_data_science/tree/master/HeadHunter)
+### 🔍 [Анализ вакансий HeadHunter](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/HeadHunter/Анализ_Вакансий.ipynb)
 **Исследование рынка труда в IT-сфере**  
 📊 Анализ данных вакансий с hh.ru  
 
@@ -13,10 +13,10 @@
 - Анализ распределения зарплат
 - Исследование зависимости зарплат от опыта и образования
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/Alexkoshin/SF_data_science/tree/master/HeadHunter)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/HeadHunter/Анализ_Вакансий.ipynb)
 
 
-### 🔍 [Анализ вакансий SQL](https://github.com/Alexkoshin/SF_data_science/blob/master/Анализ_вакансий_sql.ipynb)
+### 🔍 [Анализ вакансий SQL](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Анализ_вакансий_sql.ipynb)
 **Исследование рынка труда для SQL-специалистов**  
 📊 Комплексный анализ вакансий с использованием SQL-запросов  
 
@@ -33,10 +33,10 @@
 - **Географическое распределение**: исследование вакансий по регионам и городам
 - **Требования к кандидатам**: изучение необходимых технических навыков
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/Alexkoshin/SF_data_science/blob/master/Анализ_вакансий_sql.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Анализ_вакансий_sql.ipynb)
 
 
-### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/AlexKosuhin/SF_data_science/blob/master/project_3_EDA.ipynb)
+### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/project_3_EDA.ipynb)
 **Создание и преобразование признаков для улучшения предсказательной модели**  
 📊 Комплексная подготовка данных для машинного обучения
 
@@ -53,4 +53,4 @@
 - **Временные признаки**: анализ дат отзывов
 - **Борьба с выбросами**: фильтрация аномальных значений в числовых признаках
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/project_3_EDA.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/project_3_EDA.ipynb)
