@@ -36,7 +36,7 @@
 [![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/Alexkoshin/SF_data_science/blob/master/Анализ_вакансий_sql.ipynb)
 
 
-### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/your_username/your_repo/blob/master/feature_engineering_hotel_ratings.ipynb)
+### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/AlexKosuhin/SF_data_science/blob/master/project_3_EDA.ipynb)
 **Создание и преобразование признаков для улучшения предсказательной модели**  
 📊 Комплексная подготовка данных для машинного обучения
 
@@ -53,4 +53,4 @@
 - **Временные признаки**: анализ дат отзывов
 - **Борьба с выбросами**: фильтрация аномальных значений в числовых признаках
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/your_username/your_repo/blob/master/feature_engineering_hotel_ratings.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/project_3_EDA.ipynb)
