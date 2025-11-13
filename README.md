@@ -84,7 +84,7 @@
 
 
 
-### 🔍 [Классификация данных: полный цикл ML-проекта](ML.ipynb)  
+### 🔍 [Классификация данных: полный цикл ML-проекта](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/ML.ipynb)  
 **Комплексный анализ данных и построение моделей классификации с полным циклом предобработки**  
 ⚡ От исследования данных до сравнения эффективности различных алгоритмов машинного обучения
 
@@ -101,4 +101,4 @@
 - **Машинное обучение**: Scikit-learn
 - **Обнаружение аномалий**: Isolation Forest
 
-[![Open in Jupyter](https://img.shields.io/badge/-Открыть_проект-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](ML.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/ML.ipynb)
