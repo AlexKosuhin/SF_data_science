@@ -57,7 +57,7 @@
 
 
 
-### 🔍 [Гипероптимизация моделей машинного обучения](Hyperoptimization_ML.ipynb)  
+### 🔍 [Гипероптимизация моделей машинного обучения](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb)  
 **Сравнительный анализ методов поиска оптимальных гиперпараметров для классификации**  
 ⚡ Систематическая оптимизация Logistic Regression и Random Forest с использованием продвинутых техник
 
@@ -80,4 +80,25 @@
 - **Optuna** показала наилучшее сочетание эффективности и скорости сходимости
 - **Random Forest** превзошел Logistic Regression на 2.7 процентных пункта
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](Hyperoptimization_ML.ipynb)
+[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)]((https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb))
+
+
+
+### 🔍 [Классификация данных: полный цикл ML-проекта](ML.ipynb)  
+**Комплексный анализ данных и построение моделей классификации с полным циклом предобработки**  
+⚡ От исследования данных до сравнения эффективности различных алгоритмов машинного обучения
+
+🔧 **Использованные методы и алгоритмы**:
+- **Предобработка данных**: обработка пропусков, выбросов, кодирование категориальных признаков
+- **Ансамблевые методы**: Random Forest, Gradient Boosting
+- **Линейные модели**: Logistic Regression  
+- **Деревья решений**: классификаторы на основе Decision Trees
+- **Отбор признаков**: SelectKBest с ANOVA F-тестом
+
+📊 **Библиотеки и инструменты**:
+- **Анализ данных**: Pandas, NumPy
+- **Визуализация**: Matplotlib, Seaborn
+- **Машинное обучение**: Scikit-learn
+- **Обнаружение аномалий**: Isolation Forest
+
+[![Open in Jupyter](https://img.shields.io/badge/-Открыть_проект-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](ML.ipynb)
