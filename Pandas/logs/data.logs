@@ -1,0 +1,16 @@
+INFO: 2025-09-03 10:10:35,584: Data
+INFO: 2025-09-03 10:10:35,588: Data shape (110527, 14)
+INFO: 2025-09-03 10:10:35,626: Percentage of women: 0.653882342398853
+INFO: 2025-09-03 10:10:35,645: Percentage of men: 0.346117657601147
+ERROR: 2025-09-03 10:13:02,098: Data shape is incorrect!
+WARNING: 2025-09-03 12:56:33,170: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+WARNING: 2025-09-03 13:51:44,698: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.comet.com', port=443): Read timed out. (read timeout=10)")': /clientlib/status-report/update
+INFO: 2025-09-03 14:01:49,936: This is an informational message
+WARNING: 2025-09-03 14:01:49,938: This message is a warning
+ERROR: 2025-09-03 14:01:49,941: This is an error message
+CRITICAL: 2025-09-03 14:01:49,943: This is a critical message
+INFO: 2025-09-03 14:01:51,260: Data
+INFO: 2025-09-03 14:01:51,262: Data shape (110527, 14)
+INFO: 2025-09-03 14:01:51,280: Percentage of women: 0.653882342398853
+INFO: 2025-09-03 14:01:51,293: Percentage of men: 0.346117657601147
+ERROR: 2025-09-03 14:01:51,308: Data shape is incorrect!
