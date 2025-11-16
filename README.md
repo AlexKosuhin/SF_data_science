@@ -13,8 +13,6 @@
 - Анализ распределения зарплат
 - Исследование зависимости зарплат от опыта и образования
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/HeadHunter/Анализ_Вакансий.ipynb)
-
 
 ### 🔍 [Анализ вакансий SQL](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Анализ_вакансий_sql.ipynb)
 **Исследование рынка труда для SQL-специалистов**  
@@ -33,10 +31,8 @@
 - **Географическое распределение**: исследование вакансий по регионам и городам
 - **Требования к кандидатам**: изучение необходимых технических навыков
 
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Анализ_вакансий_sql.ipynb)
 
-
-### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/project_3_EDA.ipynb)
+### 🔍 [Feature Engineering для прогнозирования рейтинга отелей](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/EDA.ipynb)
 **Создание и преобразование признаков для улучшения предсказательной модели**  
 📊 Комплексная подготовка данных для машинного обучения
 
@@ -52,9 +48,6 @@
 - **Обработка тегов**: подсчет количества тегов и популярных категорий
 - **Временные признаки**: анализ дат отзывов
 - **Борьба с выбросами**: фильтрация аномальных значений в числовых признаках
-
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/project_3_EDA.ipynb)
-
 
 
 ### 🔍 [Гипероптимизация моделей машинного обучения](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb)  
@@ -74,17 +67,9 @@
 - **Сравнение эффективности**: точность предсказаний vs вычислительные затраты
 - **Анализ переобучения**: контроль баланса между train и test accuracy
 
-🎯 **Ключевые результаты**:
-- **LogisticRegression**: лучший результат F1-score = 0.794 (GridSearchCV)
-- **RandomForest**: лучший результат F1-score = 0.821 (Optuna) 
-- **Optuna** показала наилучшее сочетание эффективности и скорости сходимости
-- **Random Forest** превзошел Logistic Regression на 2.7 процентных пункта
-
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)]((https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/Hyperoptimization_ML.ipynb))
 
 
-
-### 🔍 [Классификация данных: полный цикл ML-проекта](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/ML.ipynb)  
+### 🔍 [Классификация данных: полный цикл ML-проекта](https://github.com/AlexKosuhin/SF_data_science/tree/master/Проекты/Полный%20цикл%20разработки%20модели)  
 **Комплексный анализ данных и построение моделей классификации с полным циклом предобработки**  
 ⚡ От исследования данных до сравнения эффективности различных алгоритмов машинного обучения
 
@@ -100,5 +85,3 @@
 - **Визуализация**: Matplotlib, Seaborn
 - **Машинное обучение**: Scikit-learn
 - **Обнаружение аномалий**: Isolation Forest
-
-[![Open in GitHub](https://img.shields.io/badge/-Открыть_проект-181717?style=for-the-badge&logo=github)](https://github.com/AlexKosuhin/SF_data_science/blob/master/Проекты/ML.ipynb)
